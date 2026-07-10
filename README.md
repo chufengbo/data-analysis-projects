@@ -73,4 +73,21 @@
 - RFM 客户分层
 - 数据可视化
 - 业务分析报告撰写
-| 巴西电商订单经营分析 | SQLite、SQL、Excel | 月度 GMV、区域销售、类目排名、RFM 客户分层、物流体验、卖家集中度 | [olist-ecommerce-sql-analysis](./olist-ecommerce-sql-analysis/) |
+## 项目三：巴西电商订单经营分析
+
+基于 Olist 巴西电商多表数据，使用 SQLite 完成订单、商品、客户、支付、评价和卖家数据的多表关联分析，并使用 Excel 输出可视化图表和业务分析报告。
+
+### 核心分析内容
+
+- 分析月度 GMV、订单量与客单价变化趋势
+- 统计各州 GMV Top10，识别核心市场
+- 分析商品类目 GMV Top10 和月度类目排名
+- 基于 RFM 模型完成客户价值分层与流失风险识别
+- 分析配送时长与用户评分的关系
+- 使用累计 GMV 贡献分析卖家集中度，识别头部卖家贡献
+
+### 项目材料
+
+- [正式报告](./olist-ecommerce-sql-analysis/巴西电商订单经营分析报告_正式版.docx)
+- [Excel分析文件](./olist-ecommerce-sql-analysis/巴西电商订单经营分析.xlsx)
+- [SQL代码与问题复盘](./olist-ecommerce-sql-analysis/巴西电商订单经营分析_SQL代码注释与问题复盘.md)
