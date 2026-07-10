@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Analysis Project Workflow"
+  short_description: "Guide end-to-end data analysis projects from data to reports"
+  default_prompt: "Use $data-analysis-project-workflow to guide a complete data analysis project from public data to a business report."
