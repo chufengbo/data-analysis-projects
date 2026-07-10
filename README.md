@@ -91,3 +91,14 @@
 - [正式报告](./olist-ecommerce-sql-analysis/巴西电商订单经营分析报告_正式版.docx)
 - [Excel分析文件](./olist-ecommerce-sql-analysis/巴西电商订单经营分析.xlsx)
 - [SQL代码与问题复盘](./olist-ecommerce-sql-analysis/巴西电商订单经营分析_SQL代码注释与问题复盘.md)
+## 数据分析项目流程 Skill
+
+[data-analysis-project-workflow](./data-analysis-project-workflow/) 是一个面向数据分析学习项目的通用流程 Skill，覆盖从公开数据选择、数据质量检查、SQL 分析、Excel 可视化到业务报告撰写的完整步骤。
+
+核心能力包括：
+
+- 明确业务问题、数据粒度和指标口径
+- 使用 SQL 进行多表 JOIN、CTE、窗口函数分析
+- 避免多表关联中的重复统计问题
+- 指导 Excel 图表选择与分析报告撰写
+- 提供数据分析项目自检清单
