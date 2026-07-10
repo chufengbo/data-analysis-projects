@@ -8,6 +8,7 @@
 |---|---|---|---|
 | 在线零售销售表现与客户价值分析 | Excel、数据透视表、RFM | 销售趋势、国家贡献、热销商品、客户复购、RFM 客户分层 | `online-retail-analysis` |
 | 淘宝用户行为分析 | SQLite、SQL、Excel | 用户行为占比、PV/UV 趋势、转化漏斗、复购分析、商品/类目偏好 | `taobao-user-behavior-analysis` |
+| 巴西电商订单经营分析 | SQLite、SQL、Excel | 月度 GMV、区域销售、类目排名、RFM 客户分层、物流体验、卖家集中度 | [olist-ecommerce-sql-analysis](./olist-ecommerce-sql-analysis/) |
 
 ## 项目一：在线零售销售表现与客户价值分析
 
@@ -72,3 +73,4 @@
 - RFM 客户分层
 - 数据可视化
 - 业务分析报告撰写
+| 巴西电商订单经营分析 | SQLite、SQL、Excel | 月度 GMV、区域销售、类目排名、RFM 客户分层、物流体验、卖家集中度 | [olist-ecommerce-sql-analysis](./olist-ecommerce-sql-analysis/) |
